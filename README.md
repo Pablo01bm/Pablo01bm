@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pablo01bm
-- 👀 I’m interested in programation and app desing
+- 👀 I’m interested in programming and app desing
 - 🌱 I’m currently learning informatic engineering
 - 💞️ I’m looking to collaborate on app and web support
 - 📫 How to reach me pablobormeg@gmail.com
